@@ -5,6 +5,11 @@
 
 This project aims to detect fraudulent transactions using a deep learning approach. By leveraging TensorFlow and Keras, we build a neural network model to identify potentially fraudulent activities in credit card transactions. The dataset comprises transactions made by European cardholders in September 2013, with the sensitive data transformed into principal component analysis (PCA) variables for privacy.
 
+## Authors
+- Anuradha Sahithi Padavala 
+- Aishwarya Sri Pati
+- College of Engineering and Computer Science University of Central Florida, Orlando, Florida – 32816
+
 ## Keywords
 
 - **TensorFlow**: An open-source library for numerical computation and machine learning.
