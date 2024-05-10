@@ -63,10 +63,10 @@ The project tackles the challenge of unbalanced data and aims to improve the acc
 
 ## Results
 - **Before Maxpooling**
-<img src="results/Picture 1.png" alt="alt text" width="400" height="400"/>
+<img src="results/Picture 1.png" alt="alt text" width="600" height="400"/>
 
 - **After Maxpooling**
-<img src="results/After Maxpool.png" alt="alt text" width="400" height="400"/>
+<img src="results/After Maxpool.png" alt="alt text" width="600" height="400"/>
 
 ## Acknowledgments
 
