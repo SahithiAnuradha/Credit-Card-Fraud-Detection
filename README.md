@@ -61,6 +61,13 @@ from sklearn.preprocessing import StandardScaler
 
 The project tackles the challenge of unbalanced data and aims to improve the accuracy of fraud detection. It involves data preprocessing, model building using a neural network, application of MaxPool to enhance feature extraction, and comparison of results before and after applying MaxPool.
 
+## Results
+- **Before Maxpooling**
+<img src="results/Picture 1.png" alt="alt text" width="400" height="400"/>
+
+- **After Maxpooling**
+<img src="results/After Maxpool.png" alt="alt text" width="400" height="400"/>
+
 ## Acknowledgments
 
 This project was developed by Anuradha Sahithi Padavala and Aishwarya Sri Pati, utilizing a publicly available dataset for educational and research purposes.
