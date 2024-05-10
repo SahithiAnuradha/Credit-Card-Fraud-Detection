@@ -35,6 +35,8 @@ pip install tensorflow pandas numpy matplotlib scikit-learn
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders. It includes features transformed using PCA, except for time, amount, and class labels (where 1 represents fraudulent transactions and 0 represents non-fraudulent transactions).
 
+dataset size ~ 280000
+
 ## Usage
 
 1. Clone the repository to your local machine.
